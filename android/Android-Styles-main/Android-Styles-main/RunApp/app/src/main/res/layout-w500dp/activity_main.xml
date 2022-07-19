@@ -43,7 +43,7 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="632dp"
+                android:layout_height="wrap_content"
                 android:background="@drawable/background2"
                 android:backgroundTint="#75000000"
                 android:backgroundTintMode="src_over"
@@ -54,7 +54,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="70dp"
-                    android:text="Welcome To RunApp 2"
+                    android:text="Welcome To RunApp 1"
                     android:textAlignment="center"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                     android:textColor="#BFBFBF"
@@ -63,7 +63,7 @@
                 <ImageButton
                     android:id="@+id/imageButton"
                     android:layout_width="match_parent"
-                    android:layout_height="143dp"
+                    android:layout_height="wrap_content"
                     android:adjustViewBounds="false"
                     android:background="@android:color/transparent"
                     android:onClick="goToApp"

@@ -17,7 +17,7 @@
 <resources>
     <string name="app_name">RunApp</string>
     <string name="runapp">RunApp</string>
-    <string name="timer_title">Running Timer</string>
+    <string name="timer_title">Running Timer italian</string>
     <string name="timer_default_value">00:00:00</string>
     <string name="timer_label">min sec deci</string>
 
